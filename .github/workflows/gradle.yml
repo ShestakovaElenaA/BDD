@@ -19,5 +19,5 @@ jobs:
       - name: Start SUT
         run: java -jar ./artifacts/app-mbank.jar & # Имя файла SUT будет отличаться в каждой задаче
       - name: Build with Gradle
-        run: ./gradlew test --info-Dselenide.headless=true  #  Для проектов на базе Selenide необходимо добавить параметр для запуска браузера
+        run: ./gradlew test --info -Dselenide.headless=true  #  Для проектов на базе Selenide необходимо добавить параметр для запуска браузера
         #  в headless режиме -Dselenide.headless=true
