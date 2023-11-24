@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="084d638f-4137-47b5-929f-1afe24c9e7ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Data/DataHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Page/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Page/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Page/TransferPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Page/VerificationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/test/MoneyTransferTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/gradle.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +59,7 @@
       <recent name="C:\Users\User\IdeaProjects\BDD\artifacts" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MoneyTransferTest.shouldGetErrorMassageIfAmountMoreBalance">
+  <component name="RunManager" selected="Gradle.MoneyTransferTest">
     <configuration name="MoneyTransferTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -142,8 +134,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MoneyTransferTest.shouldGetErrorMassageIfAmountMoreBalance" />
         <item itemvalue="Gradle.MoneyTransferTest" />
+        <item itemvalue="Gradle.MoneyTransferTest.shouldGetErrorMassageIfAmountMoreBalance" />
         <item itemvalue="Gradle.MoneyTransferTest.shouldTransferFromFirstToSecond" />
       </list>
     </recent_temporary>
